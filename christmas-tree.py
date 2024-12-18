@@ -20,3 +20,4 @@ def find(scale, icon):
 
 
 print(find(52, '🎄'))
+print()
